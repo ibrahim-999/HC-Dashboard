@@ -1,2 +1,2 @@
 # HC-dashboard
-Admin high chart dashboard
+Admin high chart dashboard with React
